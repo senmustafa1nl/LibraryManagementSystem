@@ -1,0 +1,39 @@
+﻿@using LibraryManagement.Models
+@using LibraryManagement.Models.ViewModels
+@model AuthorViewModel
+@{
+    ViewBag.Title = "Author Details";
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Author Details</h2>
+    <dl class="row">
+        <dt class="col-sm-3">First Name:</dt>
+        <dd class="col-sm-9">@Model.Author.FirstName</dd>
+
+        <dt class="col-sm-3">Last Name:</dt>
+        <dd class="col-sm-9">@Model.Author.LastName</dd>
+
+        <dt class="col-sm-3">Date of Birth:</dt>
+        <dd class="col-sm-9">@Model.Author.DateOfBirth.ToString("d")</dd>
+
+        <dt class="col-sm-3">Books:</dt>
+        <dd class="col-sm-9">
+            @if (Model.Books.Any())
+            {
+                <ul>
+                    @foreach (var book in Model.Books)
+                    {
+                        <li>@book.Title</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span>No books found</span>
+            }
+        </dd>
+    </dl>
+    <a asp-action="List" class="btn btn-secondary">Back to List</a>
+</div>

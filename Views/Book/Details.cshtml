@@ -1,0 +1,35 @@
+﻿@model BookViewModel
+@{
+    ViewBag.Title = "Book Details";
+    Layout = "_Layout";
+}
+<div class="container">
+    <h2>Book Details</h2>
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title">@Model.Book.Title</h3>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">Author</dt>
+                <dd class="col-sm-9">@Model.AuthorName</dd>
+
+                <dt class="col-sm-3">Genre</dt>
+                <dd class="col-sm-9">@Model.Book.Genre</dd>
+
+                <dt class="col-sm-3">ISBN</dt>
+                <dd class="col-sm-9">@Model.Book.ISBN</dd>
+
+                <dt class="col-sm-3">Publish Date</dt>
+                <dd class="col-sm-9">@Model.Book.PublishDate.ToShortDateString()</dd>
+
+                <dt class="col-sm-3">Copies Available</dt>
+                <dd class="col-sm-9">@Model.Book.CopiesAvailable</dd>
+            </dl>
+        </div>
+        <div class="card-footer">
+            <a asp-controller="Book" asp-action="Edit" asp-route-id="@Model.Book.Id" class="btn btn-warning">Edit</a>
+            <a asp-controller="Book" asp-action="Delete" asp-route-id="@Model.Book.Id" class="btn btn-danger">Delete</a>
+            <a asp-controller="Book" asp-action="List" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

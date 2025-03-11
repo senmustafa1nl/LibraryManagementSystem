@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "cwj4OIJOOaPIsaRHv7BiF/JZhV19vUdI9JPZDlK3k70=",
+  "Source": "MVC_project",
+  "BasePath": "_content/MVC_project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_project\\wwwroot",
+      "Source": "MVC_project",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\css\\site.css",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y21q5m2y5e",
+      "Integrity": "+mQMm4svQGVF+GUr6lh72X3FWd94mXQOvuWNhDADXAo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\js\\site.js",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1q0yhrdy26",
+      "Integrity": "KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jvdbgbmhz",
+      "Integrity": "IMSli8nR1p6TXQbxUokjZGpxW+XiGGZWVcrej18bjAA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjto57buk3",
+      "Integrity": "dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ucinmkpy3t",
+      "Integrity": "Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yrqo96mk2j",
+      "Integrity": "jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ+zU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59585y2ezo",
+      "Integrity": "Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bxa1shs6v7",
+      "Integrity": "cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-v4compatibility#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xljne9cw0g",
+      "Integrity": "BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Identity": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "SourceId": "MVC_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\",
+      "BasePath": "_content/MVC_project",
+      "RelativePath": "lib/font-awesome/webfonts/fa-v4compatibility#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bj2bsa9xnt",
+      "Integrity": "aUoXw9nWwF+KrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+mQMm4svQGVF+GUr6lh72X3FWd94mXQOvuWNhDADXAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+mQMm4svQGVF+GUr6lh72X3FWd94mXQOvuWNhDADXAo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.y21q5m2y5e.css",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+mQMm4svQGVF+GUr6lh72X3FWd94mXQOvuWNhDADXAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y21q5m2y5e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+mQMm4svQGVF+GUr6lh72X3FWd94mXQOvuWNhDADXAo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.1q0yhrdy26.js",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:46:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1q0yhrdy26"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:46:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw+Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.4jvdbgbmhz.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IMSli8nR1p6TXQbxUokjZGpxW+XiGGZWVcrej18bjAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jvdbgbmhz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IMSli8nR1p6TXQbxUokjZGpxW+XiGGZWVcrej18bjAA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.gjto57buk3.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjto57buk3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IMSli8nR1p6TXQbxUokjZGpxW+XiGGZWVcrej18bjAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IMSli8nR1p6TXQbxUokjZGpxW+XiGGZWVcrej18bjAA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.ucinmkpy3t.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucinmkpy3t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ+zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ+zU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.yrqo96mk2j.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ+zU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yrqo96mk2j"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ+zU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.59585y2ezo.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59585y2ezo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.bxa1shs6v7.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bxa1shs6v7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.bj2bsa9xnt.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aUoXw9nWwF+KrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bj2bsa9xnt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-v4compatibility.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aUoXw9nWwF+KrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.woff2",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aUoXw9nWwF+KrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aUoXw9nWwF+KrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-v4compatibility.xljne9cw0g.ttf",
+      "AssetFile": "D:\\c#\\MVC_project\\MVC_project\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xljne9cw0g"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-v4compatibility.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g="
+        }
+      ]
+    }
+  ]
+}

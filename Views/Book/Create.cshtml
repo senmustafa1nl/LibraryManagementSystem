@@ -1,0 +1,55 @@
+﻿@using LibraryManagement.Models
+@using LibraryManagement.Models.ViewModels
+@model BookViewModel
+@{
+    ViewBag.Title = "Add Book";
+    Layout = "_Layout";
+}
+<div class="container">
+    <h2>Create New Book</h2>
+
+    <form asp-action="Create">
+        <div class="form-group mb-3">
+            <label asp-for="Book.Title">Title</label>
+            <input asp-for="Book.Title" class="form-control" required />
+            <span asp-validation-for="Book.Title" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Book.AuthorId">Author</label>
+            <select asp-for="Book.AuthorId" asp-items="Model.Authors" class="form-control" required>
+                <option value="">-- Select Author --</option>
+            </select>
+            <span asp-validation-for="Book.AuthorId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Book.Genre">Genre</label>
+            <input asp-for="Book.Genre" class="form-control" required />
+            <span asp-validation-for="Book.Genre" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Book.PublishDate">Publish Date</label>
+            <input asp-for="Book.PublishDate" type="date" class="form-control" required />
+            <span asp-validation-for="Book.PublishDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Book.ISBN">ISBN</label>
+            <input asp-for="Book.ISBN" class="form-control" />
+            <span asp-validation-for="Book.ISBN" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Book.CopiesAvailable">Copies Available</label>
+            <input asp-for="Book.CopiesAvailable" type="number" class="form-control" required min="0" />
+            <span asp-validation-for="Book.CopiesAvailable" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <button type="submit" class="btn btn-primary">Create Book</button>
+            <a asp-action="List" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>

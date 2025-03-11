@@ -1,0 +1,38 @@
+﻿@using LibraryManagement.Models
+@using LibraryManagement.Models.ViewModels
+@model List<BookViewModel>
+@{
+    ViewBag.Title = "Books";
+    Layout = "_Layout";
+}
+<div class="container">
+    <h2>Book List</h2>
+    <a asp-controller="Book" asp-action="Create" class="btn btn-primary mb-3">Add New Book</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Available Copies</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Book.Title</td>
+                    <td>@item.AuthorName</td>
+                    <td>@item.Book.Genre</td>
+                    <td>@item.Book.CopiesAvailable</td>
+                    <td>
+                        <a asp-controller="Book" asp-action="Details" asp-route-id="@item.Book.Id" class="btn btn-info btn-sm">Details</a>
+                        <a asp-controller="Book" asp-action="Edit" asp-route-id="@item.Book.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-controller="Book" asp-action="Delete" asp-route-id="@item.Book.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

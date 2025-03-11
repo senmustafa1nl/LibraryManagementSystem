@@ -1,0 +1,124 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BmQMm4svQGVF\u002BGUr6lh72X3FWd94mXQOvuWNhDADXAo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2023"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BmQMm4svQGVF\u002BGUr6lh72X3FWd94mXQOvuWNhDADXAo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:54:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/css/site.y21q5m2y5e.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y21q5m2y5e"},{"Name":"integrity","Value":"sha256-\u002BmQMm4svQGVF\u002BGUr6lh72X3FWd94mXQOvuWNhDADXAo="},{"Name":"label","Value":"_content/MVC_project/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2023"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BmQMm4svQGVF\u002BGUr6lh72X3FWd94mXQOvuWNhDADXAo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:54:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/js/site.1q0yhrdy26.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1q0yhrdy26"},{"Name":"integrity","Value":"sha256-KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw\u002BY="},{"Name":"label","Value":"_content/MVC_project/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"817"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:46:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw\u002BY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"817"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KYWNGrZkmKp21v6kgdwlJ4JfHIvGQJNS9CAQgTVHw\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:46:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-brands-400.4jvdbgbmhz.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4jvdbgbmhz"},{"Name":"integrity","Value":"sha256-IMSli8nR1p6TXQbxUokjZGpxW\u002BXiGGZWVcrej18bjAA="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"187208"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022IMSli8nR1p6TXQbxUokjZGpxW\u002BXiGGZWVcrej18bjAA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-brands-400.gjto57buk3.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gjto57buk3"},{"Name":"integrity","Value":"sha256-dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108020"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IMSli8nR1p6TXQbxUokjZGpxW\u002BXiGGZWVcrej18bjAA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"187208"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022IMSli8nR1p6TXQbxUokjZGpxW\u002BXiGGZWVcrej18bjAA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108020"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022dIMyCQxLjiD5XQ/1nwviD6nIiTWdOzbUuIbXM3YFQgc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"63952"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-regular-400.ucinmkpy3t.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ucinmkpy3t"},{"Name":"integrity","Value":"sha256-Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"63952"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Uo0CLc5nJfiggR/ZHY5lE0Rcge8zNTpcMjTquTJVGr8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ\u002BzU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"24948"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ\u002BzU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-regular-400.yrqo96mk2j.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yrqo96mk2j"},{"Name":"integrity","Value":"sha256-jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ\u002BzU="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24948"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022jn5eobFfYqsU29QXaOj7zSHMhZpOpdqBJFfucUKZ\u002BzU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-solid-900.59585y2ezo.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"59585y2ezo"},{"Name":"integrity","Value":"sha256-Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"394628"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-solid-900.bxa1shs6v7.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bxa1shs6v7"},{"Name":"integrity","Value":"sha256-cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"150124"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"394628"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Z6ZXY8f4CQPYFgO765BJ/CvyhQhHm4PtAR/iTHH6lQo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"150124"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022cVKmkz7j1pDsKvPQnanXAXI9Fqo0EKbYDyj/iGbzuIA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-v4compatibility.bj2bsa9xnt.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bj2bsa9xnt"},{"Name":"integrity","Value":"sha256-aUoXw9nWwF\u002BKrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-v4compatibility.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4564"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022aUoXw9nWwF\u002BKrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-v4compatibility.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10172"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-v4compatibility.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aUoXw9nWwF\u002BKrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4564"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022aUoXw9nWwF\u002BKrGPFRGFVUqSyIOmk3oY9hzQaa8/BvI0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVC_project/lib/font-awesome/webfonts/fa-v4compatibility.xljne9cw0g.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xljne9cw0g"},{"Name":"integrity","Value":"sha256-BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g="},{"Name":"label","Value":"_content/MVC_project/lib/font-awesome/webfonts/fa-v4compatibility.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10172"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022BRWkI/gozk5qzPkqLqCwPRnTHMhtmvA3MpHh/U2180g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Feb 2025 12:51:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

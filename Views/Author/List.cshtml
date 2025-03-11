@@ -1,0 +1,36 @@
+﻿@using LibraryManagement.Models
+@using LibraryManagement.Models.ViewModels
+@model List<Author>
+@{
+    ViewBag.Title = "Authors";
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Author List</h2>
+    <a asp-action="Create" class="btn btn-primary mb-3">Add New Author</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date of Birth</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var author in Model)
+            {
+                <tr>
+                    <td>@author.FirstName @author.LastName</td>
+                    <td>@author.DateOfBirth.ToString("d")</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@author.Id" class="btn btn-info btn-sm">Details</a>
+                        <a asp-action="Edit" asp-route-id="@author.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@author.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

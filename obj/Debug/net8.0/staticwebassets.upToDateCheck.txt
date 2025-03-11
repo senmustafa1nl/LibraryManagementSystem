@@ -1,0 +1,10 @@
+wwwroot\css\site.css
+wwwroot\js\site.js
+wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2
+wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2
+wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2
+wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.ttf
+wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.woff2

@@ -223,27 +223,6 @@ This project is a **Library Management System** built with **ASP.NET Core MVC**.
 -->
 
 
-## Contributors<!-- Required -->
-<!-- 
-* Without contribution we wouldn't have open source. 
-* 
-* Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
--->
-<a href="https://github.com/kareem221215/patika-projects-week2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kareem221215/patika-projects-week2" />
-</a>
-
-<!--## Acknowledgments<!-- Optional -->
-<!-- 
-* Credit where it's do 
-* 
-* Feel free to share your inspiration sources, Stackoverflow questions, github repos, tools etc.
--->
-
-
-<!-- - Use this html element to create a back to top button. -->
-<!--<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>-->
-
 
 ## Feedback<!-- Required -->
 <!-- 
